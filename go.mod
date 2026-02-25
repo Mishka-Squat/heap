@@ -1,6 +1,6 @@
 module github.com/Mishka-Squat/heap
 
-go 1.25.0
+go 1.26
 
 require (
 	github.com/savsgio/gotils v0.0.0-20250924091648-bce9a52d7761

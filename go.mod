@@ -4,5 +4,5 @@ go 1.27
 
 require (
 	github.com/savsgio/gotils v0.0.0-20250924091648-bce9a52d7761
-	golang.org/x/exp v0.0.0-20260727155853-b88d891fe743
+	golang.org/x/exp v0.0.0-20260824195058-e88cd73687aa
 )
